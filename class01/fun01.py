@@ -62,6 +62,6 @@ turtle.end_fill()  # 标记背景填充结束位置
 
 # 点击窗口关闭程序
 
-# window = turtle.Screen()
-#
-# window.exitonclick()
+window = turtle.Screen()
+
+window.exitonclick()
