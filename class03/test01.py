@@ -14,6 +14,8 @@
 #         j += 1
 #     print('')
 #     i += 1
+
+    # print('')
 #3.
 i=1
 while i<=9:
@@ -21,3 +23,4 @@ while i<=9:
         print(f'{i}*{j}={i * j}', end=' ')
     i += 1
     print()
+

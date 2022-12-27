@@ -26,10 +26,10 @@ b = int((s / 10) % 10)
 c = int(s % 10)
 n=a*a*a+b*b*b+c*c*c
 if s==n:
-    print("是水仙花数")
+    print("%d是水仙花数" %s)
 else:
     print("不是水仙花数")
-print(n)
+# print(n)
 # 三位数水仙花
 # i=100
 # while i<1000:
